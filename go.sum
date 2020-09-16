@@ -1,2 +1,6 @@
+github.com/go-ole/go-ole v1.2.4 h1:nNBDSCOigTSiarFpYE9J/KtEA1IOW4CNeqT9TQDqCxI=
+github.com/go-ole/go-ole v1.2.4/go.mod h1:XCwSNxSkXRo4vlyPy93sltvi/qJq0jqQhjqQNIwKuxM=
+github.com/relloyd/go-sql/database/sql v0.0.0-20200911120625-a22210dbdea8 h1:3pFHTYw0LWsrypE9s5DTDG1ACRq6rGpIr3rvQ94Kj/Q=
+github.com/relloyd/go-sql/database/sql v0.0.0-20200911120625-a22210dbdea8/go.mod h1:wSGT78fVkiYfY1HopuiOXy5OvNm2MHIeU5JhH5a5CwE=
 golang.org/x/sys v0.0.0-20181011152604-fa43e7bc11ba h1:nZJIJPGow0Kf9bU9QTc1U6OXbs/7Hu4e+cNv+hxH+Zc=
 golang.org/x/sys v0.0.0-20181011152604-fa43e7bc11ba/go.mod h1:STP8DvDyc/dI5b8T5hshtkjS+E42TnysNCUPdjciGhY=

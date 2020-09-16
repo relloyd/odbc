@@ -6,11 +6,11 @@ package odbc
 
 import (
 	"bytes"
-	"database/sql"
-	"database/sql/driver"
 	"errors"
 	"flag"
 	"fmt"
+	"github.com/relloyd/go-sql/database/sql"
+	"github.com/relloyd/go-sql/database/sql/driver"
 	"io"
 	"net"
 	"runtime"

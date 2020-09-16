@@ -5,8 +5,8 @@
 package odbc
 
 import (
-	"database/sql"
 	"fmt"
+	"github.com/relloyd/go-sql/database/sql"
 	"io/ioutil"
 	"os"
 	"path/filepath"

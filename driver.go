@@ -7,7 +7,7 @@
 package odbc
 
 import (
-	"database/sql"
+	"github.com/relloyd/go-sql/database/sql"
 
 	"github.com/alexbrainman/odbc/api"
 )

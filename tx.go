@@ -5,8 +5,8 @@
 package odbc
 
 import (
-	"database/sql/driver"
 	"errors"
+	"github.com/relloyd/go-sql/database/sql/driver"
 
 	"github.com/alexbrainman/odbc/api"
 )

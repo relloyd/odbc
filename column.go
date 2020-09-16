@@ -5,9 +5,9 @@
 package odbc
 
 import (
-	"database/sql/driver"
 	"errors"
 	"fmt"
+	"github.com/relloyd/go-sql/database/sql/driver"
 	"time"
 	"unsafe"
 

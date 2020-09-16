@@ -5,7 +5,7 @@
 package odbc
 
 import (
-	"database/sql/driver"
+	"github.com/relloyd/go-sql/database/sql/driver"
 	"strings"
 	"unsafe"
 

@@ -5,9 +5,9 @@
 package odbc_test
 
 import (
-	"database/sql"
 	"flag"
 	"fmt"
+	"github.com/relloyd/go-sql/database/sql"
 	"testing"
 	"time"
 
