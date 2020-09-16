@@ -9,7 +9,7 @@ import (
 	"github.com/relloyd/go-sql/database/sql/driver"
 	"sync"
 
-	"github.com/alexbrainman/odbc/api"
+	"github.com/relloyd/odbc/api"
 )
 
 type Stmt struct {

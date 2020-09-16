@@ -8,7 +8,7 @@ import (
 	"github.com/relloyd/go-sql/database/sql/driver"
 	"io"
 
-	"github.com/alexbrainman/odbc/api"
+	"github.com/relloyd/odbc/api"
 )
 
 type Rows struct {

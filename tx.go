@@ -8,7 +8,7 @@ import (
 	"errors"
 	"github.com/relloyd/go-sql/database/sql/driver"
 
-	"github.com/alexbrainman/odbc/api"
+	"github.com/relloyd/odbc/api"
 )
 
 type Tx struct {
